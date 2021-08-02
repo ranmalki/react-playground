@@ -1,0 +1,13 @@
+ul {
+    background-color: orange;
+    list-style: none;
+    width: 500px;
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: crimson;
+}
